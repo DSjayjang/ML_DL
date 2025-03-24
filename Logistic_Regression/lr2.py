@@ -1,4 +1,4 @@
-# Data Load
+# Data Loadd
 from sklearn import datasets
 
 raw_cancer = datasets.load_breast_cancer()
