@@ -2,7 +2,7 @@ import numpy as np
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
 
-from Logistic_Regression.lr1 import LogisticRegression
+from logreg1 import LogisticRegression
 from utils.metrics import accuracy
 
 # data load
